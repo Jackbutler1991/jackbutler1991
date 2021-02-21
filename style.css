@@ -27,6 +27,7 @@ iframe{ margin-left: 100px;
 	border: 8px solid white;
 	background:#696969;
 }
+.content-wrapper {margin-bottom: 20px; }
 .header { 
 	display: flex;
 	background: white;
